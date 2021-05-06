@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JJxDLVpk3pAmU0oBMPXAccqABv/61KePSeeRJccW6X69/eE6rLViuHwr+0LEl57rEwScs0hR0Onmsvn9zEF7lg==",
+  "dgSpecHash": "FRQ39KolBqgJRohuiFKoBWuOD8TOXyrGy9f+byTF4PRT+sEhnfVxNm9ozYM4VkelXOduYZu29bqB0HgXz0qOkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\athota\\Git MS Projects\\SampleMsProject\\SampleDotNetCore\\SampleDotNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\athota\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\athota\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\athota\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\athota\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\athota\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\athota\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\athota\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.0\\pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
